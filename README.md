@@ -35,3 +35,6 @@ https://registry.hub.docker.com/u/tutum/lamp/
 About DVWA 
 
 http://www.dvwa.co.uk/
+
+Test
+http://localhost/setup.php
